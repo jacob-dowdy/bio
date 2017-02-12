@@ -1,2 +1,2 @@
 # bio
-Bio program in Ruby. Written Codeacademy's Ruby course
+Bio program in Ruby. Written in Codeacademy's Ruby course
